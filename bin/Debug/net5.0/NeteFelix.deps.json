@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NeteFelix/1.0.0": {
+        "runtime": {
+          "NeteFelix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeteFelix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\NeteFelix.exe
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\NeteFelix.deps.json
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\NeteFelix.runtimeconfig.json
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\NeteFelix.runtimeconfig.dev.json
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\NeteFelix.dll
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\ref\NeteFelix.dll
+C:\Users\rodri\Documents\NeteFelix\bin\Debug\net5.0\NeteFelix.pdb
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.AssemblyInfo.cs
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.dll
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\ref\NeteFelix.dll
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.pdb
+C:\Users\rodri\Documents\NeteFelix\obj\Debug\net5.0\NeteFelix.genruntimeconfig.cache
